@@ -1,0 +1,20 @@
+{
+    "name": "mydom/tp6_uploads",
+    "description": "文件上传",
+    "type": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Mydom\\Tp6Uploads\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mydom"
+        }
+    ],
+    "minimum-stability": "dev"
+}
