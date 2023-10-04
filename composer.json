@@ -15,6 +15,5 @@
         {
             "name": "mydom"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
